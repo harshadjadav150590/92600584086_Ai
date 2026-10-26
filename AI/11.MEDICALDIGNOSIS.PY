@@ -1,5 +1,5 @@
-#NAME : DEVENDRA ODEDARA
-#ENO: 92600584011
+#NAME : HARSHAD JADAV
+#ENO: 92600584086
 
 print("===== Expert System =====")
 print("Answer the following questions with yes or no.")
