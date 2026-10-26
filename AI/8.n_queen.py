@@ -1,5 +1,5 @@
-#NAME : DEVENDRA ODEDARA
-#ENO: 92600584011
+#NAME : HARSHAD JADAV
+#ENO: 92600584086
 
 def solve_n_queens(n):
     board = [-1] * n
